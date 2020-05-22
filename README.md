@@ -16,20 +16,20 @@
 - What is prop drilling and how can you avoid it?
 - Why is it important to pass props to super() in constructor, and why?
 
-##JS
+## JS
 
 
-##Redux
+## Redux
 - What are the advantages of Redux?
 - Where you would make an API call?
 - How would you implement this using redux - On form submit, say response code is 500, show some popup, then POST to an API which creates an incident and pop up the ticket number.
 
 
-##HTML
+## HTML
 - aside and article tags
 
 
-##CSS
+## CSS
 - Explain the CSS Box Model 
 - use of pseudo element :before & :after
 - CSS Grid
